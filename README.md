@@ -1,5 +1,5 @@
 # OIBGRIP 
-# Oasis Infobyte Internship
+# Oasis Infobyte Internship Tasks
 
 TASK 2:NUMBER GUESSING GAME
 
