@@ -10,7 +10,6 @@ The computer then tells if the entered number matches the guesses number or it i
 The game continues under the user guessing the number.
 
 Further details:
-
 Limiting the number of attempts.
 Adding more rounds.
 Displaying score.
@@ -20,7 +19,7 @@ Giving points based on the number of attempts.
 
 
 
-
+______________________________________________________________________________________________________
 
 TASK 3: ATM INTERFACE
 
